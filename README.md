@@ -20,3 +20,6 @@ Curated list of awesome projects and research related to vector search
 - https://weaviate.io/developers/weaviate/benchmarks/ann
 - https://qdrant.tech/benchmarks
 
+# Cost Analysis:
+
+TODO
