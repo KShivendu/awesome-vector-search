@@ -9,7 +9,7 @@ Curated list of awesome projects and research related to vector search
 
 ## Vector search libraries and extensions:
 - ChromaDB
-- hnswlib
+- FAISS
 - pgvector
 
 # Performance benchmarks:
